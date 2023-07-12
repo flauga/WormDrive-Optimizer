@@ -1,0 +1,2 @@
+# This program is used to optimize worm drive parameters for multiple different criteria like efficiency, torque output etc
+# Works only on online matlab, not on octave
